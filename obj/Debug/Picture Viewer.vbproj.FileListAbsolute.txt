@@ -1,0 +1,10 @@
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\bin\Debug\Picture Viewer.exe
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\bin\Debug\Picture Viewer.pdb
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\bin\Debug\Picture Viewer.xml
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture_Viewer.ViewerForm.resources
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture_Viewer.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture Viewer.vbproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture Viewer.exe
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture Viewer.xml
+c:\users\james\documents\visual studio 2013\Projects\Picture Viewer\obj\Debug\Picture Viewer.pdb
